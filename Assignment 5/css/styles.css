@@ -1,0 +1,18 @@
+p{
+    font-family: sans-serif;
+}
+h2{
+    font-family: sans-serif;
+}
+div{
+    font-family: sans-serif;
+}
+
+ul{
+    list-style-position: outside;
+    list-style-type: "-  ";
+    
+}
+li.a {
+    margin: 10px;
+}
