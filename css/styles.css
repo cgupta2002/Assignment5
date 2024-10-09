@@ -36,3 +36,23 @@ h2.a{
     margin-right: auto;
 }
 
+li.nav-item {
+    background-color: #00ffed20;
+    font-size: 22px;
+    border: 1px solid #ffffff !important;
+    padding-right: 5px;
+    padding-left: 5px;
+    margin-left: 10px;
+    margin-right: 10px;
+    }
+
+a.nav-link {
+    color: #dddddd !important;
+}
+
+a.active {
+    font-weight: bold;
+}
+a.nav-link:hover {
+    color: #ffffff !important;
+}
