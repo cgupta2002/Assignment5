@@ -64,3 +64,12 @@ body{
 td.b {
     text-align: left;
 }
+
+input.a{
+    height: 25px;
+    padding-bottom: 10px;
+}
+
+label.a {
+    height: 30px;
+}
