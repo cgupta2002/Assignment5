@@ -56,3 +56,11 @@ a.active {
 a.nav-link:hover {
     color: #ffffff !important;
 }
+
+body{
+    padding-bottom: 200px; 
+}
+
+td.b {
+    text-align: left;
+}
